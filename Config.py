@@ -12,4 +12,4 @@ convertio = ''
 elevenlabs = ""
 sync_lab = ""
 
-admins = [1979922062, 780270834, 6455916237]
+admins = []
